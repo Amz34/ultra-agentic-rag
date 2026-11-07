@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 data/
 *.db
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+posted_social_state.json
+publish_ultra_rag_launch.py
+ultra_rag_dashboard_preview.png
+x_post_verified.png

@@ -3,8 +3,11 @@
 > **Vectorless, Reasoning-Based RAG Engine** synthesizing **Hierarchical Document Trees** (PageIndex), **Knowledge Graph Mesh** (GraphRAG), and **Self-Corrective Evaluator** (CRAG).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/Amz34/ultra-agentic-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/Amz34/ultra-agentic-rag/actions/workflows/ci.yml)
 [![Cloudflare Pages](https://img.shields.io/badge/Dashboard-Live-emerald.svg)](https://ultra-rag-mesh.pages.dev)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
+
+![Ultra Agentic Hybrid RAG Overview](assets/ultra-agentic-rag-overview.jpg)
 
 ---
 
