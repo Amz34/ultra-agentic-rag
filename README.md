@@ -99,3 +99,7 @@ for step in result.reasoning_trail:
 ## 📄 License
 
 MIT License © 2026 [Aamir Zameer (Amz34)](https://github.com/Amz34). All rights reserved.
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
