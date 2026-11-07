@@ -24,7 +24,7 @@ Traditional RAG relies on:
 - 🌲 **Hierarchical Document Layout Trees**: Preserves headings ($H_1, H_2, H_3$), physical page numbers, markdown tables 📊, and footnote links 📑 without destructive chunking.
 - 🕸️ **Knowledge Graph Mesh**: Extracts entities (EBITDA, Revenue, Regulations, Dates) and discovers multi-hop cross-section linkages.
 - 🛡️ **Self-Corrective CRAG Gate**: Autonomously reconciles dangling footnotes (e.g. *"Refer to Note 4"*) and parent contexts to eliminate hallucinations.
-- 📉 **-97% Token Reduction**: Pulls only pinpointed grounded pages, eliminating noisy context flooding.
+- 📉 **Significant Token Reduction**: Pulls only pinpointed grounded pages, eliminating noisy context flooding.
 
 ---
 
