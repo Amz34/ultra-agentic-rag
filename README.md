@@ -7,7 +7,7 @@
 [![Cloudflare Pages](https://img.shields.io/badge/Dashboard-Live-emerald.svg)](https://ultra-rag-mesh.pages.dev)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 
-![Ultra Agentic Hybrid RAG Overview](assets/ultra-agentic-rag-overview.jpg)
+![Ultra Agentic Hybrid RAG Overview](assets/architecture-overview.svg)
 
 ### 📊 Quantified Enterprise ROI & Operational Safeguards
 
